@@ -1,0 +1,7 @@
+.terraform
+.vscode
+.terraform.lock.hcl
+*.backup
+*.tfstate
+*.tar.gz
+.deploy.sh
